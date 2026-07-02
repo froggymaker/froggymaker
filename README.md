@@ -18,5 +18,5 @@ understand the mechanism, expose the structure, build something useful.
 ## Current state
 
 New account.  
-No public repositories yet.  
+The first public repository is online.  
 The frog is getting the workshop ready.
