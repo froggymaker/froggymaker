@@ -1,16 +1,22 @@
-## Hi there 👋
+# Froggy MAKER
 
-<!--
-**froggymaker/froggymaker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> No magic, just opened boxes.
 
-Here are some ideas to get you started:
+Small maker lab for practical tools, prototypes, and system experiments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Froggy MAKER is about opening the box instead of pretending it is magic:
+understand the mechanism, expose the structure, build something useful.
+
+## Scope
+
+- software tools
+- automation
+- maker experiments
+- system conventions
+- practical prototypes
+
+## Current state
+
+New account.  
+No public repositories yet.  
+The frog is getting the workshop ready.
